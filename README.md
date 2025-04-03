@@ -8,7 +8,7 @@
 
 ### Criando um Jogo do Sudoku em Java
 
-Exercício realizado replicando as orientações contidas nos vídeos referentes ao desafio e conforme orientações abaixo, retiradas
+Atividade executada replicando os passos/codificação contidos nos vídeos relacionados ao desafio, sendo assim uma cópia da implementação apresentada, e conforme orientações abaixo, retiradas
 do [Descrição do Desafio](https://web.dio.me/lab/criando-um-jogo-do-sudoku/learning/2c8253e4-ad02-4b81-a121-be5fdb99de16?back=/track/bradesco-java-cloud-native)  
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>  
 <small>*Obs.: Desenvolvido somente o código para uso/jogar via terminal.*</small>
